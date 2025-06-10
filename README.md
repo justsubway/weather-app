@@ -26,7 +26,7 @@
 ### Prerequisites
 - JDK 17+ ([Download here](https://adoptium.net/))
 - IntelliJ IDEA (or any Java IDE)
-- json-simple-1.1.1 ([Download here](https://code.google.com/archive/p/json-simple/downloads)
+- json-simple-1.1.1 ([Download here](https://code.google.com/archive/p/json-simple/downloads))
 
 ### Running in IntelliJ IDEA
 1. **Clone the repository**:
