@@ -1,6 +1,6 @@
 # 🌦️ Weather App (Java Swing)
 
-![Demo Screenshot](assets/screenshot.png)  
+![Demo Screenshot](assets/demo.png)  
 *A real-time weather application with GUI built using Java Swing and Open-Meteo API.*
 
 [![GitHub stars](https://img.shields.io/github/stars/justsubway/weather-app?style=social)](https://github.com/justsubway/weather-app)
